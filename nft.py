@@ -72,7 +72,8 @@ def generate_single_image(filepaths, output_filename=None):
         if filepath.endswith('.png'):
             img = Image.open(os.path.join('assets', filepath))
             bg.paste(img, (0,0), img)
-    
+
+
     # Save the final image into desired location
     if output_filename is not None:
         bg.save(output_filename)
@@ -159,7 +160,7 @@ def generate_images(edition, count, drop_dup=True):
     # Create output directory if it doesn't exist
     if not os.path.exists(op_path):
         os.makedirs(op_path)
-      
+    type = ''
     # Create the images
     for n in progressbar(range(count)):
         
@@ -168,6 +169,9 @@ def generate_images(edition, count, drop_dup=True):
         
         # Get a random set of valid traits based on rarity weights
         trait_sets, trait_paths = generate_trait_set_from_config()
+        type = trait_paths[-1].split('/')[1].replace('.png', '')
+
+        image_name = type + image_name
 
         # Generate the actual image
         generate_single_image(trait_paths, os.path.join(op_path, image_name))
@@ -192,11 +196,11 @@ def generate_images(edition, count, drop_dup=True):
 
         #op_path = os.path.join('output', 'edition ' + str(edition))
         for i in img_tb_removed:
-            os.remove(os.path.join(op_path, str(i).zfill(zfill_count) + '.png'))
+            os.remove(os.path.join(op_path, type + str(i).zfill(zfill_count) + '.png'))
 
         # Rename images such that it is sequentialluy numbered
         for idx, img in enumerate(sorted(os.listdir(op_path))):
-            os.rename(os.path.join(op_path, img), os.path.join(op_path, str(idx).zfill(zfill_count) + '.png'))
+            os.rename(os.path.join(op_path, img), os.path.join(op_path, type + str(idx).zfill(zfill_count) + '.png'))
     
     
     # Modify rarity table to reflect removals

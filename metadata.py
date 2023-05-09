@@ -15,7 +15,7 @@ warnings.simplefilter(action='ignore', category=FutureWarning)
 
 # Base metadata. MUST BE EDITED.
 BASE_IMAGE_URL = "ipfs://<-- Your CID Code-->"
-BASE_NAME = ""
+BASE_NAME = "Skeleton"
 
 BASE_JSON = {
     "name": BASE_NAME,
@@ -93,11 +93,13 @@ def main():
         # Append number to base name
         item_json['name'] = item_json['name'] + str(idx)
 
-        # Append image PNG file name to base image path
-        item_json['image'] = item_json['image'] + '/' + str(idx).zfill(zfill_count) + '.png'
-        
         # Convert pandas series to dictionary
         attr_dict = dict(row)
+
+
+        # Append image PNG file name to base image path
+        item_json['image'] = item_json['image'] + '/' + attr_dict['Type'] + str(idx).zfill(zfill_count) + '.png'
+
         
         # Add all existing traits to attributes dictionary
         for attr in attr_dict:
