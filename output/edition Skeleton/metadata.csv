@@ -1,98 +1,98 @@
-,background,body,head,bones,type
-0,Arabella,none,Horn,Brown,Skeleton
-1,Creme de Peche,Ogre Armour,Sultan Hat,White,Skeleton
-2,Arabella,Mayan,Bandages,Brown,Skeleton
-3,Creme,Maroon Scarf,none,Brown,Skeleton
-4,Mindaro,none,none,White,Skeleton
-5,Light Teal,Maroon Scarf,Halo,White,Skeleton
-6,Aquamarine,Nature,Sultan Hat,Gold,Skeleton
-7,Tuscan,Ogre Armour,Horn,Brown,Skeleton
-8,Lotus Pink,Purple Baron,Crown,Brown,Skeleton
-9,Grey,none,Archer Hat,Brown,Skeleton
-10,Nyanza,Adam,Crown,Gold,Skeleton
-11,Marley,Mayan Lead,none,Gold,Skeleton
-12,Cheesecake,Green Armour,none,Brown,Skeleton
-13,Relaxing Green,none,Elf Hat,Brown,Skeleton
-14,Gainsboro,Mayan,Pope Hat,Brown,Skeleton
-15,Aquamarine,Indian Necklace,none,White,Skeleton
-16,Pink,none,Sultan Hat,Brown,Skeleton
-17,Tuscan,Baron,none,White,Skeleton
-18,Relaxing Green,none,Halo,White,Skeleton
-19,Chamomile,Ogre Armour,Horn,White,Skeleton
-20,Tuscan,Mayan Lead,none,White,Skeleton
-21,Relaxing Green,Indian Necklace,Archer Hat,Gold,Skeleton
-22,Blue Sky,none,Bandages,Brown,Skeleton
-23,Kayla,none,Halo,Brown,Skeleton
-24,Cool Crystal,none,Archer Hat,Brown,Skeleton
-25,Blue Sky,Baron,none,Gold,Skeleton
-26,Frosty,Mayan Lead,Archer Hat,White,Skeleton
-27,Cool Crystal,Maroon Scarf,Archer Hat,Brown,Skeleton
-28,Theatre Powder Rose,none,Crown,Brown,Skeleton
-29,Light Teal,Mayan,Bandages,Brown,Skeleton
-30,Light Green,Maroon Scarf,Sultan Hat,White,Skeleton
-31,Lilly,Purple Baron,Pope Hat,White,Skeleton
-32,Nyanza,Nature,Elf Hat,Gold,Skeleton
-33,Light Green,Indian Necklace,none,Brown,Skeleton
-34,Creme de Peche,Mayan,Pope Hat,Brown,Skeleton
-35,Blue Sky,none,Horn,Brown,Skeleton
-36,Yellow,none,Pope Hat,Gold,Skeleton
-37,Light Teal,none,Elf Hat,White,Skeleton
-38,Cool Crystal,Indian Necklace,none,Gold,Skeleton
-39,Relaxing Green,none,Elf Hat,Gold,Skeleton
-40,Light Green,none,Pope Hat,Gold,Skeleton
-41,Pink,Purple Baron,Elf Hat,White,Skeleton
-42,Creme de Peche,Indian Necklace,Sultan Hat,Brown,Skeleton
-43,Creme de Peche,Purple Baron,none,White,Skeleton
-44,Light Teal,none,Horn,Gold,Skeleton
-45,Arabella,Adam,Elf Hat,Brown,Skeleton
-46,Yellow Green,none,none,Gold,Skeleton
-47,Aquamarine,Ogre Armour,none,White,Skeleton
-48,Grey,Adam,Pope Hat,Brown,Skeleton
-49,Theatre Powder Rose,Nature,Halo,White,Skeleton
-50,Tuscan,Indian Necklace,none,White,Skeleton
-51,Arabella,none,Horn,Gold,Skeleton
-52,Marley,Baron,Halo,Gold,Skeleton
-53,Lotus Pink,Mayan Lead,none,White,Skeleton
-54,Theatre Powder Rose,none,none,Gold,Skeleton
-55,Ancient Marble,Mayan,Elf Hat,Gold,Skeleton
-56,Pink,none,none,Brown,Skeleton
-57,Mindaro,Indian Necklace,Horn,Brown,Skeleton
-58,Theatre Powder Rose,Adam,Crown,White,Skeleton
-59,Light Green,Mayan Lead,none,White,Skeleton
-60,Nyanza,none,Crown,White,Skeleton
-61,Relaxing Green,none,Sultan Hat,Gold,Skeleton
-62,Tuscan,Mayan Lead,none,Gold,Skeleton
-63,Chamomile,Mayan Lead,Elf Hat,Brown,Skeleton
-64,Nyanza,Green Armour,Crown,Gold,Skeleton
-65,Kayla,Indian Necklace,Pope Hat,Brown,Skeleton
-66,Light Green,none,none,Brown,Skeleton
-67,Tuscan,Purple Baron,none,Brown,Skeleton
-68,Pink,Indian Necklace,Crown,Gold,Skeleton
-69,Light Teal,Mayan,Horn,Gold,Skeleton
-70,Lotus Pink,none,Bandages,White,Skeleton
-71,Nimbus Cloud,none,Archer Hat,Brown,Skeleton
-72,Lotus Pink,none,Elf Hat,Gold,Skeleton
-73,Spring Green,Ogre Armour,Pope Hat,White,Skeleton
-74,Lotus Pink,Mayan,Sultan Hat,White,Skeleton
-75,Yellow Green,Adam,none,Brown,Skeleton
-76,Yellow Green,Ogre Armour,Crown,Gold,Skeleton
-77,Pink,none,Elf Hat,Brown,Skeleton
-78,Spring Green,Nature,none,Gold,Skeleton
-79,Ancient Marble,Maroon Scarf,none,Gold,Skeleton
-80,Spring Green,Nature,Sultan Hat,Gold,Skeleton
-81,Creme,none,Horn,Brown,Skeleton
-82,Cheesecake,none,Elf Hat,Brown,Skeleton
-83,Frosty,none,none,White,Skeleton
-84,Lotus Pink,Maroon Scarf,Sultan Hat,Brown,Skeleton
-85,Lilly,Mayan Lead,Pope Hat,Gold,Skeleton
-86,Matcha,none,Elf Hat,Gold,Skeleton
-87,Lilly,none,Horn,White,Skeleton
-88,Cool Crystal,Maroon Scarf,Crown,Gold,Skeleton
-89,Cool Crystal,Maroon Scarf,none,Gold,Skeleton
-90,Lilly,Adam,none,White,Skeleton
-91,Creme,Indian Necklace,Sultan Hat,Brown,Skeleton
-92,Bianchi Green,none,Archer Hat,Gold,Skeleton
-93,Tuscan,Mayan,Sultan Hat,Brown,Skeleton
-94,Cheesecake,Indian Necklace,Bandages,Gold,Skeleton
-95,Arabella,Maroon Scarf,Pope Hat,Brown,Skeleton
-96,Tuscan,Maroon Scarf,Halo,White,Skeleton
+,background,bones,body,head,type
+0,Nyanza,Gold,Adam,Elf Hat,Skeleton
+1,Aquamarine,Brown,Mayan,Sultan Hat,Skeleton
+2,Mindaro,Brown,Maroon Scarf,Horn,Skeleton
+3,Creme,White,Purple Baron,Horn,Skeleton
+4,Pink,Gold,Purple Baron,none,Skeleton
+5,Nimbus Cloud,White,Mayan Lead,none,Skeleton
+6,Relaxing Green,White,Indian Necklace,none,Skeleton
+7,Light Green,Gold,Purple Baron,Sultan Hat,Skeleton
+8,Gainsboro,Brown,Adam,none,Skeleton
+9,Theatre Powder Rose,Gold,Green Armour,Halo,Skeleton
+10,Light Green,White,Adam,none,Skeleton
+11,Nyanza,White,none,Bandages,Skeleton
+12,Lotus Pink,Brown,Green Armour,none,Skeleton
+13,Frosty,Brown,Mayan Lead,Pope Hat,Skeleton
+14,Blue Sky,Brown,Nature,Archer Hat,Skeleton
+15,Gainsboro,Gold,none,none,Skeleton
+16,Creme,Brown,Nature,Bandages,Skeleton
+17,Grey,Gold,Baron,none,Skeleton
+18,Tuscan,Brown,Mayan,Halo,Skeleton
+19,Frosty,Brown,none,Pope Hat,Skeleton
+20,Frosty,Gold,none,Halo,Skeleton
+21,Lilly,Brown,Purple Baron,Elf Hat,Skeleton
+22,Ancient Marble,Gold,none,Archer Hat,Skeleton
+23,Relaxing Green,White,Maroon Scarf,Archer Hat,Skeleton
+24,Chamomile,Gold,Baron,Elf Hat,Skeleton
+25,Creme de Peche,Gold,Purple Baron,Crown,Skeleton
+26,Blue Sky,Gold,Mayan Lead,Pope Hat,Skeleton
+27,Cool Crystal,Brown,none,none,Skeleton
+28,Chamomile,Brown,Indian Necklace,none,Skeleton
+29,Marley,White,Baron,Bandages,Skeleton
+30,Frosty,White,none,Sultan Hat,Skeleton
+31,Lilly,White,Nature,Archer Hat,Skeleton
+32,Kayla,Brown,Mayan,Bandages,Skeleton
+33,Chamomile,White,none,Bandages,Skeleton
+34,Blue,White,Nature,Crown,Skeleton
+35,Tuscan,Gold,Ogre Armour,Crown,Skeleton
+36,Kayla,Gold,Mayan,Halo,Skeleton
+37,Nyanza,White,Mayan Lead,Halo,Skeleton
+38,Nimbus Cloud,Gold,Indian Necklace,Sultan Hat,Skeleton
+39,Frosty,Gold,Purple Baron,Crown,Skeleton
+40,Ancient Marble,Gold,Mayan Lead,Bandages,Skeleton
+41,Nyanza,Gold,none,Archer Hat,Skeleton
+42,Nimbus Cloud,Gold,Baron,Bandages,Skeleton
+43,Mindaro,Brown,Green Armour,Halo,Skeleton
+44,Light Green,White,none,Halo,Skeleton
+45,Marley,White,Purple Baron,Archer Hat,Skeleton
+46,Nyanza,White,Green Armour,Crown,Skeleton
+47,Yellow,Brown,Maroon Scarf,Elf Hat,Skeleton
+48,Lilly,Gold,none,Archer Hat,Skeleton
+49,Lilly,Gold,none,none,Skeleton
+50,Aquamarine,Brown,Baron,Horn,Skeleton
+51,Mindaro,Gold,Nature,Elf Hat,Skeleton
+52,Frosty,White,Ogre Armour,Horn,Skeleton
+53,Pink,White,Green Armour,Sultan Hat,Skeleton
+54,Gainsboro,Brown,Purple Baron,Horn,Skeleton
+55,Nimbus Cloud,Brown,Purple Baron,Halo,Skeleton
+56,Nimbus Cloud,White,Purple Baron,Bandages,Skeleton
+57,Yellow Green,White,Adam,Bandages,Skeleton
+58,Bianchi Green,Brown,Ogre Armour,Bandages,Skeleton
+59,Creme,White,Adam,none,Skeleton
+60,Marley,Gold,Indian Necklace,Elf Hat,Skeleton
+61,Mindaro,Brown,none,none,Skeleton
+62,Light Green,Gold,none,Bandages,Skeleton
+63,Relaxing Green,Gold,Purple Baron,none,Skeleton
+64,Grey,Brown,Mayan,Horn,Skeleton
+65,Aquamarine,Brown,Indian Necklace,Archer Hat,Skeleton
+66,Blue,Brown,Nature,Pope Hat,Skeleton
+67,Creme,Brown,Adam,Horn,Skeleton
+68,Aquamarine,Brown,none,Halo,Skeleton
+69,Yellow Green,Gold,Adam,Halo,Skeleton
+70,Marley,Gold,none,Halo,Skeleton
+71,Cheesecake,Brown,none,Elf Hat,Skeleton
+72,Light Teal,Brown,Nature,none,Skeleton
+73,Gainsboro,Brown,Adam,Archer Hat,Skeleton
+74,Marley,Gold,Ogre Armour,Sultan Hat,Skeleton
+75,Matcha,Gold,none,Halo,Skeleton
+76,Creme,Gold,Baron,none,Skeleton
+77,Frosty,Gold,Nature,Pope Hat,Skeleton
+78,Arabella,White,Mayan,none,Skeleton
+79,Aquamarine,Gold,Mayan Lead,Archer Hat,Skeleton
+80,Light Green,Gold,none,Elf Hat,Skeleton
+81,Ancient Marble,Gold,none,Pope Hat,Skeleton
+82,Lotus Pink,Brown,Green Armour,Horn,Skeleton
+83,Matcha,Brown,Adam,none,Skeleton
+84,Kayla,Gold,Mayan Lead,Sultan Hat,Skeleton
+85,Frosty,White,none,none,Skeleton
+86,Yellow,White,Green Armour,none,Skeleton
+87,Lilly,White,none,Crown,Skeleton
+88,Light Teal,White,none,none,Skeleton
+89,Mindaro,Gold,Baron,Horn,Skeleton
+90,Blue,Gold,Green Armour,Archer Hat,Skeleton
+91,Lotus Pink,Gold,Green Armour,none,Skeleton
+92,Nimbus Cloud,White,Maroon Scarf,Sultan Hat,Skeleton
+93,Bianchi Green,Gold,Mayan Lead,none,Skeleton
+94,Ancient Marble,Brown,Adam,Elf Hat,Skeleton
+95,Gainsboro,White,Ogre Armour,Pope Hat,Skeleton
+96,Mindaro,Gold,Purple Baron,none,Skeleton
