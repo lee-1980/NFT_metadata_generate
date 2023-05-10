@@ -14,13 +14,13 @@ warnings.simplefilter(action='ignore', category=FutureWarning)
 
 
 # Base metadata. MUST BE EDITED.
-BASE_IMAGE_URL = "ipfs://<-- Your CID Code-->"
+BASE_IMAGE_URL = "ipfs://QmS7MuP8E7g5hfwSY8EA7P7ntWz1HSNPPM9ukfrTCXxnAu"
 BASE_NAME = "Otter #"
-Margin = 1126
+Margin = 1158
 
 BASE_JSON = {
     "name": BASE_NAME,
-    "description": "",
+    "description": "1,500 otters building the best community and tools on SUI",
     "image": BASE_IMAGE_URL,
     "attributes": [],
 }

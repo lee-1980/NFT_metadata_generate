@@ -72,3 +72,57 @@ CONFIG = [
         'rarity_weights': None,
     }
 ]
+
+
+SCI_CONFIG = [
+    {
+        'id': 1,
+        'name': 'background',
+        'directory': 'Background',
+        'required': True,
+        'rarity_weights': None,
+    },
+    {
+        'id': 2,
+        'name': 'fur',
+        'directory': 'Fur',
+        'required': True,
+        'rarity_weights': None,
+    },
+    {
+        'id': 3,
+        'name': 'body',
+        'directory': 'Body',
+        'required': False,
+        'rarity_weights': [8, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88, 1.88],
+    },
+    {
+        'id': 4,
+        'name': 'mouth',
+        'directory': 'Mouth',
+        'required': True,
+        'rarity_weights': [16.67, 16.67, 50, 16.6],
+    },
+    {
+        'id': 5,
+        'name': 'eyes',
+        'directory': 'Eyes',
+        'required': True,
+        'rarity_weights': None,
+    },
+    {
+        'id': 6,
+        'name': 'head',
+        'directory': 'Head',
+        'required': False,
+        'rarity_weights': [8, 8.36, 8.36, 8.36, 8.36, 8.36, 8.36, 8.36, 8.36, 8.36, 8.36, 8.36],
+    },
+
+    {
+        'id': 7,
+        'name': 'type',
+        'directory': 'Type',
+        'required': True,
+        'rarity_weights': None,
+    }
+]
