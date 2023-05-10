@@ -20,7 +20,7 @@ Margin = 1158
 
 BASE_JSON = {
     "name": BASE_NAME,
-    "description": "1,500 otters building the best community and tools on SUI",
+    "description": "1,500 otters building the best community and tools on SUI.",
     "image": BASE_IMAGE_URL,
     "attributes": [],
 }
